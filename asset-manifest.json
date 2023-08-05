@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/first-app/static/css/main.87b949cb.css",
+    "main.js": "/first-app/static/js/main.6b622b3d.js",
+    "static/media/happy-moon.jpg": "/first-app/static/media/happy-moon.d732cf4d00a102ed3592.jpg",
+    "static/media/happy-sun.jpg": "/first-app/static/media/happy-sun.962db34d4a285332bee7.jpg",
+    "index.html": "/first-app/index.html",
+    "main.87b949cb.css.map": "/first-app/static/css/main.87b949cb.css.map",
+    "main.6b622b3d.js.map": "/first-app/static/js/main.6b622b3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87b949cb.css",
+    "static/js/main.6b622b3d.js"
+  ]
+}
