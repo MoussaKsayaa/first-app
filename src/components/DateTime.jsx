@@ -6,7 +6,7 @@ import "./DateTime.css";
 function DateTime() {
     const date = new Date();
     const day = date.toLocaleString("en-us", {weekday: "long"});
-    const morning = date.getHours() >= 6 && date.getHours() <= 12;
+    const morning = date.getHours() >= 6 && date.getHours() <= 18;
     let dayMessage;
     if (day.toLowerCase() === "monday") {
         dayMessage = `Happy ${day}`;
